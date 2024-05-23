@@ -13,5 +13,6 @@ public class UsageOfDataType {
         System.out.println(a);
         System.out.println(b);
         // test
+        // 테스트
     }
 }
